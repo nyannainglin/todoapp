@@ -1,0 +1,21 @@
+#main-side h2 {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+.future {
+    margin-bottom: 40px;
+}
+.future h4,
+.done h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+} 
+.future h4 i,
+.done h4 i {
+    color: #9bb8a6;
+}
+.future .card {
+    margin-bottom: 20px;
+}
+
+             

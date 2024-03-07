@@ -1,0 +1,31 @@
+#login-form {
+    color: #31473A;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+ }
+#login-body {
+    padding: 20px 40px;
+    background: #9bb8a6;
+    border-radius: 14px;
+}
+*:focus {
+   outline: 0; 
+   box-shadow: none;
+}
+.card-body button {
+    color: #EDF4F2;
+    font-weight: 600;
+    background: #31473A;
+    border: none;
+    transition: .3s ease-in-out;
+}
+.card-body button:hover {
+    color: #31473A;
+    background: #EDF4F2;
+}
+.card-body a {
+    color: #31473A;
+}
